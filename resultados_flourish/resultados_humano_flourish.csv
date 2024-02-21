@@ -1,2 +1,1 @@
 item,visualizacion_,tipo_alerta_,estado,fecha_evento,fecha_actualizacion,ubigeo,afectacion,evento,latitud,longitud,_sort_,_fecha_actualizacion_,cant_vehiculos_detenidos_pasajeros,cant_vehiculos_detenidos_mercancias,fuente,motivo,codigo_via,nombre_carretera,alerta_activa_24_horas,style
-35,SI,VIGENTE,TRÁNSITO INTERRUMPIDO,21/02/2024,21/02/2024  15:00 HORAS,PIURA/PIURA/LA UNION,KM 24+130,PROTESTA DE LOS POBLADORES BLOQUEA LA VIA NACIONAL,-5.402835,-80.75104,-5.402835+-80.75104,2024  15:00 HORAS+02+21+,0,0,PNP,HUMANO,PE-1NK,CARRETERA SECHURA - PIURA,SI,interrumpido
