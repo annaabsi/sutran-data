@@ -1,2 +1,1 @@
 item,visualizacion_,tipo_alerta_,estado,fecha_evento,fecha_actualizacion,ubigeo,afectacion,evento,latitud,longitud,_sort_,_fecha_actualizacion_,cant_vehiculos_detenidos_pasajeros,cant_vehiculos_detenidos_mercancias,fuente,motivo,codigo_via,nombre_carretera,alerta_activa_24_horas,style
-3,SI,VIGENTE,TRÁNSITO RESTRINGIDO,02/03/2024,08/03/2024 06:30 HORAS,APURIMAC/ABANCAY/ABANCAY,KM 773+800,SE LIBERO LA VIA QUE FUERA AFECTADA POR MANIFESTANTES,-13.636037,-72.89689,-13.636037+-72.89689,2024 06:30 HORAS+03+08+06:30,0,0,PNP,HUMANO,PE-3S,LONGITUDINAL DE LA SIERRA SUR,SI,restringido
