@@ -1,2 +1,1 @@
 item,visualizacion_,tipo_alerta_,estado,fecha_evento,fecha_actualizacion,ubigeo,afectacion,evento,latitud,longitud,_sort_,_fecha_actualizacion_,cant_vehiculos_detenidos_pasajeros,cant_vehiculos_detenidos_mercancias,fuente,motivo,codigo_via,nombre_carretera,alerta_activa_24_horas,style
-21,SI,VIGENTE,TRÁNSITO INTERRUMPIDO,26/05/2024,26/05/2024 08:00 HORAS,JUNIN/YAULI/YAULI,KM 156+800,VIA INTERRUMPIDA POR ACCIDENTE DE TRÁNSITO,-11.6231183,-76.0009333,-11.6231183+-76.0009333,2024 08:00 HORAS+05+26+08:00,0,0,CONCESIONARIA VIAL,HUMANO,PE-22,CARRETERA CENTRAL,SI,interrumpido
